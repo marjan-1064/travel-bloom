@@ -1,0 +1,181 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "Australia",
+      "cities": [
+        {
+          "name": "Sydney, Australia",
+          "imageUrl": "enter_your_image_for_sydney.jpg",
+          "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge."
+        },
+        {
+          "name": "Melbourne, Australia",
+          "imageUrl": "enter_your_image_for_melbourne.jpg",
+          "description": "A cultural hub famous for its art, food, and diverse neighborhoods."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Japan",
+      "cities": [
+        {
+          "name": "Tokyo, Japan",
+          "imageUrl": "enter_your_image_for_tokyo.jpg",
+          "description": "A bustling metropolis blending tradition and modernity, famous for its cherry blossoms and rich culture."
+        },
+        {
+          "name": "Kyoto, Japan",
+          "imageUrl": "enter_your_image_for_kyoto.jpg",
+          "description": "Known for its historic temples, gardens, and traditional tea houses."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Brazil",
+      "cities": [
+        {
+          "name": "Rio de Janeiro, Brazil",
+          "imageUrl": "enter_your_image_for_rio.jpg",
+          "description": "A lively city known for its stunning beaches, vibrant carnival celebrations, and iconic landmarks."
+        },
+        {
+          "name": "São Paulo, Brazil",
+          "imageUrl": "enter_your_image_for_sao-paulo.jpg",
+          "description": "The financial hub with diverse culture, arts, and a vibrant nightlife."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Pakistan",
+      "cities": [
+        {
+          "name": "Sargodha",
+          "imageUrl": "sargodha.jpg",
+          "description": "Known as the 'City of Eagles', Sargodha is famous for its kinnow (oranges) and military significance."
+        },
+        {
+          "name": "Karachi",
+          "imageUrl": "karachi.jpg",
+          "description": "The largest city and financial hub of Pakistan, known for its bustling seaports, diverse culture, and vibrant lifestyle."
+        },
+        {
+          "name": "Rawalpindi",
+          "imageUrl": "rawalpindi.jpg",
+          "description": "A twin city of Islamabad, rich in history and culture, with a mix of modern and traditional markets."
+        },
+        {
+          "name": "Lahore",
+          "imageUrl": "lahore.jpg",
+          "description": "The cultural capital of Pakistan, famous for its Mughal architecture, food, and vibrant festivals."
+        },
+        {
+          "name": "Wah",
+          "imageUrl": "wah.jpg",
+          "description": "Known for Wah Cantt and its historical Mughal gardens, as well as its industrial significance."
+        },
+        {
+          "name": "Islamabad",
+          "imageUrl": "islamabad.jpg",
+          "description": "The capital city of Pakistan, celebrated for its greenery, modern infrastructure, and Faisal Mosque."
+        },
+        {
+          "name": "Multan",
+          "imageUrl": "multan.jpg",
+          "description": "The 'City of Saints', famous for its Sufi shrines, handicrafts, and mangoes."
+        },
+        {
+          "name": "Murree",
+          "imageUrl": "murree.jpg",
+          "description": "A popular hill station known for its pine forests, cool climate, and scenic beauty."
+        },
+        {
+          "name": "Quetta",
+          "imageUrl": "quetta.jpg",
+          "description": "The 'Fruit Garden of Pakistan', surrounded by mountains and famous for its orchards and Pashtun culture."
+        },
+        {
+          "name": "Sibbi",
+          "imageUrl": "sibbi.jpg",
+          "description": "Known for its annual Sibbi Mela and rich cultural heritage in Balochistan."
+        },
+        {
+          "name": "Faisalabad",
+          "imageUrl": "faisalabad.jpg",
+          "description": "An industrial hub often called the 'Manchester of Pakistan', known for its textile industry."
+        },
+        {
+          "name": "Peshawar",
+          "imageUrl": "peshawar.jpg",
+          "description": "One of the oldest cities in South Asia, rich in Pashtun culture and history, and a gateway to Central Asia."
+        },
+        {
+          "name": "Gujranwala",
+          "imageUrl": "gujranwala.jpg",
+          "description": "Known as the 'City of Wrestlers', also famous for its strong industrial and agricultural base."
+        },
+        {
+          "name": "Sheikhupura",
+          "imageUrl": "sheikhupura.jpg",
+          "description": "A historic city with Hiran Minar, built during the Mughal era by Emperor Jahangir."
+        },
+        {
+          "name": "Skardu",
+          "imageUrl": "skardu.jpg",
+          "description": "A gateway to some of the world's highest peaks, known for its breathtaking landscapes and lakes."
+        },
+        {
+          "name": "Kashmir",
+          "imageUrl": "kashmir.jpg",
+          "description": "Renowned for its natural beauty, valleys, rivers, and mountains, often called 'Paradise on Earth'."
+        },
+        {
+          "name": "Naran",
+          "imageUrl": "naran.jpg",
+          "description": "A scenic valley in Khyber Pakhtunkhwa, famous for Lake Saiful Muluk and its alpine landscapes."
+        },
+        {
+          "name": "Hazara",
+          "imageUrl": "hazara.jpg",
+          "description": "A mountainous region with lush valleys, diverse culture, and beautiful lakes such as Lulusar."
+        },
+        {
+          "name": "Hyderabad",
+          "imageUrl": "hyderabad.jpg",
+          "description": "A historic city in Sindh, famous for its tombs, Sindhi culture, and handicrafts."
+        }
+      ]
+    }
+  ],
+  "temples": [
+    {
+      "id": 1,
+      "name": "Angkor Wat, Cambodia",
+      "imageUrl": "enter_your_image_for_angkor-wat.jpg",
+      "description": "A UNESCO World Heritage site and the largest religious monument in the world."
+    },
+    {
+      "id": 2,
+      "name": "Taj Mahal, India",
+      "imageUrl": "enter_your_image_for_taj-mahal.jpg",
+      "description": "An iconic symbol of love and a masterpiece of Mughal architecture."
+    }
+  ],
+  "beaches": [
+    {
+      "id": 1,
+      "name": "Bora Bora, French Polynesia",
+      "imageUrl": "enter_your_image_for_bora-bora.jpg",
+      "description": "An island known for its stunning turquoise waters and luxurious overwater bungalows."
+    },
+    {
+      "id": 2,
+      "name": "Copacabana Beach, Brazil",
+      "imageUrl": "enter_your_image_for_copacabana.jpg",
+      "description": "A famous beach in Rio de Janeiro, Brazil, with a vibrant atmosphere and scenic views."
+    }
+  ]
+}
